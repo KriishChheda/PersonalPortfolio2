@@ -25,8 +25,8 @@ const greeting = {
   subTitle: emoji(
     "I'm an aspiring Computer Engineer at D. J. Sanghvi College of Engineering, with a passion for building impactful web applications that serve a purpose. I enjoy solving problems through code and am currently expanding my skills into the fascinating world of data science."
   ),
-  resumeLink:
-    "https://docs.google.com/document/d/1W_7DNQkp24dM2hdlLp5udfkI9vs6Tvp9_wGmuQ0lpos/edit?usp=sharing", // Set to empty to hide the button
+  resumeLink: "/Kriish_Chheda_Resume.pdf",
+
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
